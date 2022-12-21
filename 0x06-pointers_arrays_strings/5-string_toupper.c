@@ -16,6 +16,6 @@ i = 0;
 			*(s + i) -= 'a' - 'A';
 		i++;
 	}
-	return (0);
+	return (s);
 }
 /*codinate*/
