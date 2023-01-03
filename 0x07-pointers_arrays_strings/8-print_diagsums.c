@@ -24,5 +24,5 @@ s2 += a[i];
 a -= size;
 }
 
-a -= size;
+printf("%d, %d\n", s1, s2);
 }
