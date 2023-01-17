@@ -19,7 +19,4 @@ d->age = age;
 d->owner = owner;
 }
 }
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
 
